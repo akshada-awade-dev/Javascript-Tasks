@@ -1,0 +1,77 @@
+﻿[
+    {
+        "id": 1,
+        "name": "Anu",
+        "course": "MERN"
+    },
+    {
+        "id": 2,
+        "name": "Shweta",
+        "course": "Java"
+    },
+    {
+        "id": 3,
+        "name": "Rahul",
+        "course": "Python"
+    },
+    {
+        "id": 4,
+        "name": "Priya",
+        "course": "React"
+    },
+    {
+        "id": 5,
+        "name": "Amit",
+        "course": "Node.js"
+    },
+    {
+        "id": 6,
+        "name": "Sneha",
+        "course": "C++"
+    },
+    {
+        "id": 7,
+        "name": "Rohan",
+        "course": "Angular"
+    },
+    {
+        "id": 8,
+        "name": "Pooja",
+        "course": "Data Science"
+    },
+    {
+        "id": 9,
+        "name": "Vikas",
+        "course": "MongoDB"
+    },
+    {
+        "id": 10,
+        "name": "Neha",
+        "course": "Spring Boot"
+    },
+    {
+        "id": 11,
+        "name": "Kiran",
+        "course": "Flutter"
+    },
+    {
+        "id": 12,
+        "name": "Meena",
+        "course": "UI/UX"
+    },
+    {
+        "id": 13,
+        "name": "Sagar",
+        "course": "DevOps"
+    },
+    {
+        "id": 14,
+        "name": "Komal",
+        "course": "Machine Learning"
+    },
+    {
+        "id": 15,
+        "name": "Arjun",
+        "course": "Full Stack"
+    }
+]
